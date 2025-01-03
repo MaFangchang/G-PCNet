@@ -7,6 +7,7 @@ Our paper is currently under peer review.
 ## Requirements
 ```bash
 conda env create -f environment.yml -n pyocc(your env name)
+```
 * python=3.9
 * pytorch
 * torch-geometric
